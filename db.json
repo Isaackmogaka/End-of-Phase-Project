@@ -1,0 +1,20 @@
+{
+    "Mechanic": [
+      {
+        "id": "1",
+        "Name": "William saliba",
+        "Services": "Oiling and Engine Service",
+        "Location": "Kisumu"
+      },
+      {
+        "id": "2",
+        "": "Manos: The Hands Of Fate",
+        "runtime": "118",
+        "capacity": 50,
+        "showtime": "06:45PM",
+        "tickets_sold": 44,
+        "description": "A family gets lost on the road and stumbles upon a hidden, underground, devil-worshiping cult led by the fearsome Master and his servant Torgo.",
+        "poster": "https://www.gstatic.com/tv/thumb/v22vodart/47781/p47781_v_v8_ac.jpg"
+      }
+    ]
+  }
