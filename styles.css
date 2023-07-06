@@ -1,15 +1,16 @@
-body {
-    font-family: Arial, sans-serif;
+ h1{
+    color: #e111d7;
+    font-size: xx-large;
+    text-align: center;
+    font-weight: bolder;
+    font-family: 'Times New Roman', Times, serif;
+    
   }
-  
-  h1, h2 {
-    color: #333;
-  }
-  
   #mechanics, #selected-mechanic {
     margin-bottom: 20px;
     padding: 10px;
-    border: 1px solid #ccc;
+    border: 2px solid #ccc;
+    background-color: #d5ead5;
   }
   
   #mechanic-list {
@@ -18,7 +19,7 @@ body {
   }
   
   .mechanic-card {
-    border: 1px solid #ccc;
+    border: 1px solid #c29a9a;
     border-radius: 5px;
     padding: 10px;
     margin: 10px;
@@ -26,7 +27,7 @@ body {
   }
   
   .mechanic-card:hover {
-    background-color: #f2f2f2;
+    background-color: #dabdbd;
     cursor: pointer;
   }
   
@@ -40,13 +41,41 @@ body {
   
   #book-button {
     padding: 10px 20px;
-    background-color: #4CAF50;
+    background-color: #c36d91;
     color: white;
     border: none;
     border-radius: 5px;
     cursor: pointer;
+    text-align: center;
   }
   
   #book-button:hover {
-    background-color: #45a049;
+    background-color: #070707;
   }
+@media screen and (max-width: 700px) {
+    .content{
+        font-size: 1.4rem;
+        margin: 2rem auto 0;
+    }
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #edd5d5;
+    background-image: url(DPYNzI.jpg);
+  }
+  
+ 
+  
+
+  
+
+
+  
+
+
+  
+ 
+  
+ 
+  
