@@ -1,7 +1,7 @@
 # Final Project
 
 ## By Isaac Mogaka
-- It basically illustrates how to intergrate both Javascript, HTML AND CSS to come up with solutions to problems in the tech world, by creating apps, softwares and even websites the help create solutions to those problems
+- It basically illustrates how to intergrate both Javascript, HTML AND CSS to come up with solutions to problems in the tech world, by creating apps, softwares and even websites that help create solutions to those problems
 ## Table of content
 - Description
 - Technologies used 
@@ -9,7 +9,8 @@
 - Licence
 - Authors Info
 ## DescriptionAuthors Info
-- <p>The site is basically about Auto mechanic where there are increased number of vehicles but shortage in servicing mostly in the remote areas. So am creating a solution where no one is limited in any case when you come to this site you'll be able to find the mechanic and the service that suits you in your remote location.</p>
+- <p>The site is basically about Auto mechanic, where there are increased number of vehicles but shortage number of mechanics to  servicice mostly in the remote areas. So am creating a solution where no one is limited in any case when you come to this site you'll be able to find the mechanic and the service that suits you in your remote location.</p>
+- My local API link... https://mechanicsdata.onrender.com
 ## Technologies used 
 - This webpage was developed using:
    - Javascript - which has been used to come up with the fucntion to generate returns and solve the problems.
