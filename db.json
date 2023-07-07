@@ -4,106 +4,143 @@
       "id": 1,
       "name": "John Smith",
       "area": "Nairobi",
-      "skills": ["Engine Repair", "Brake System", "Electrical"],
-      "bookings": [
-        {
-          "id": 1,
-          "bookId": 101,
-          "status": "Pending"
-        },
-        {
-          "id": 2,
-          "bookId": 102,
-          "status": "Completed"
-        }
+      "skills": [
+        "Engine Repair",
+        "Brake System",
+        "Electrical",
+        "General Car Service"
       ]
-      
     },
     {
       "id": 2,
       "name": "Emma Johnson",
       "area": "Kisumu",
-      "skills": ["Tire Service", "Suspension", "Air Conditioning"]
+      "skills": [
+        "Tire Service",
+        "Suspension",
+        "Air Conditioning",
+        "General Car Service"
+      ]
     },
     {
       "id": 3,
       "name": "Michael Brown",
       "area": "KItale",
-      "skills": ["Oil Change", "Battery Replacement", "Transmission"]
+      "skills": [
+        "General Car Service",
+        "Battery Replacement",
+        "Transmission"
+      ]
     },
-
     {
       "id": 4,
       "name": "Abdi Nadab",
       "area": "Mombasa",
-      "skills": ["Oil Change", "Battery Replacement", "Transmission"]
+      "skills": [
+        "Replace spark plugs",
+        "Check and replace break pads",
+        "General Car Service"
+      ]
     },
-
     {
       "id": 5,
       "name": "Wambua Kioko",
       "area": "Machakos",
-      "skills": ["Oil Change", "Battery Replacement", "Transmission"]
+      "skills": [
+        "New tire replacement",
+        "Battery Replacement",
+        "General Car Service"
+      ]
     },
-
     {
       "id": 6,
       "name": "Chris Noles",
       "area": "Eldoret",
-      "skills": ["Oil Change", "Battery Replacement", "Transmission"]
+      "skills": [
+        "Oil Change",
+        "Engine Tune up",
+        "General Car Service"
+        
+      ]
     },
-
     {
       "id": 7,
       "name": "Peter Brian",
       "area": "Nakuru",
-      "skills": ["Oil Change", "Battery Replacement", "Transmission"]
+      "skills": [
+        "Brake Work",
+        "Wiper replacement",
+        "General Car Service"
+      ]
     },
-
     {
       "id": 8,
       "name": "Mogaka Rioba",
       "area": "Kisii",
-      "skills": ["Oil Change", "Battery Replacement", "Transmission"]
+      "skills": [
+        "Antifreeze added",
+        "General Car Service",
+        "Windscreen management"
+      ]
     },
-
     {
       "id": 9,
       "name": "Nancy Hummels",
       "area": "Kiambu",
-      "skills": ["Oil Change", "Battery Replacement", "Transmission"]
+      "skills": [
+        "Oil Change",
+        "Battery Replacement",
+        "General Car Service"
+      ]
     },
-
     {
       "id": 10,
       "name": "Isaack Stuart",
       "area": "Nyeri",
-      "skills": ["Oil Change", "Battery Replacement", "Transmission"]
+      "skills": [
+        "General Service",
+        "Brake work",
+        "Transmission"
+      ]
     },
-
     {
       "id": 11,
       "name": "Halsey Wayne",
       "area": "Naivasha",
-      "skills": ["Oil Change", "Battery Replacement", "Transmission"]
+      "skills": [
+        "Oil Change",
+        "General Car Service",
+        "Transmission"
+      ]
     },
     {
       "id": 12,
       "name": "Meshack Rhyne",
       "area": "Gilgil",
-      "skills": ["Oil Change", "Battery Replacement", "Transmission"]
+      "skills": [
+        "General Car Service",
+        "Battery Replacement",
+        "Brake fluids"
+      ]
     },
     {
       "id": 13,
       "name": "Henry Nyabuto",
       "area": "Narok",
-      "skills": ["Oil Change", "Battery Replacement", "Transmission"]
+      "skills": [
+        "Oil Change",
+        "Battery Replacement",
+        "General Car Service"
+      ]
     },
     {
       "id": 14,
       "name": "Michael Mulinge",
       "area": "Kitui",
-      "skills": ["Oil Change", "Battery Replacement", "Transmission"]
+      "skills": [
+        "General Car Service",
+        "Transmission"
+      ]
     }
   ]
- }
+}

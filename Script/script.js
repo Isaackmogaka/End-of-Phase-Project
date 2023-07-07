@@ -53,7 +53,7 @@ document.addEventListener("DOMContentLoaded", function() {
         // Add any other required booking details
       };
   
-      fetch("http://localhost:3000/book-service", {
+      fetch("http://localhost:3000/Mechanics", {
         method: "POST",
         headers: {
           "Content-Type": "application/json"
@@ -71,7 +71,7 @@ document.addEventListener("DOMContentLoaded", function() {
       })
       .catch(error => {
         console.error("Error:", error);
-        alert("An error occurred. Please try again later.");
+        // alert("An error occurred. Please try again later.");
       });
     }
   
