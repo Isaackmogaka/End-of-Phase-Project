@@ -60,7 +60,6 @@
         "Oil Change",
         "Engine Tune up",
         "General Car Service"
-        
       ]
     },
     {
@@ -142,5 +141,6 @@
         "Transmission"
       ]
     }
+   
   ]
 }
