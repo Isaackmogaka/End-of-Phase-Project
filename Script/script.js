@@ -3,7 +3,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const mechanicInfo = document.getElementById("mechanic-info");
     const bookButton = document.getElementById("book-button");
   
-    // Fetch mechanics from the local API
+    // Fetch mechanics Data from the local API
     function fetchMechanics() {
       fetch("http://localhost:3000/Mechanics")
         .then(response => response.json())
