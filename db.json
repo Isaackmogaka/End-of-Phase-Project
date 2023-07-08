@@ -4,7 +4,7 @@
       "id": 1,
       "name": "John Smith",
       "area": "Nairobi",
-      "skills": [
+      "Services": [
         "Engine Repair",
         "Brake System",
         "Electrical",
@@ -15,7 +15,7 @@
       "id": 2,
       "name": "Emma Johnson",
       "area": "Kisumu",
-      "skills": [
+      "Services": [
         "Tire Service",
         "Suspension",
         "Air Conditioning",
@@ -26,7 +26,7 @@
       "id": 3,
       "name": "Michael Brown",
       "area": "KItale",
-      "skills": [
+      "Services": [
         "General Car Service",
         "Battery Replacement",
         "Transmission"
@@ -36,7 +36,7 @@
       "id": 4,
       "name": "Abdi Nadab",
       "area": "Mombasa",
-      "skills": [
+      "Services": [
         "Replace spark plugs",
         "Check and replace break pads",
         "General Car Service"
@@ -46,7 +46,7 @@
       "id": 5,
       "name": "Wambua Kioko",
       "area": "Machakos",
-      "skills": [
+      "Services": [
         "New tire replacement",
         "Battery Replacement",
         "General Car Service"
@@ -56,7 +56,7 @@
       "id": 6,
       "name": "Chris Noles",
       "area": "Eldoret",
-      "skills": [
+      "Services": [
         "Oil Change",
         "Engine Tune up",
         "General Car Service"
@@ -66,7 +66,7 @@
       "id": 7,
       "name": "Peter Brian",
       "area": "Nakuru",
-      "skills": [
+      "Services": [
         "Brake Work",
         "Wiper replacement",
         "General Car Service"
@@ -76,7 +76,7 @@
       "id": 8,
       "name": "Mogaka Rioba",
       "area": "Kisii",
-      "skills": [
+      "Services": [
         "Antifreeze added",
         "General Car Service",
         "Windscreen management"
@@ -86,7 +86,7 @@
       "id": 9,
       "name": "Nancy Hummels",
       "area": "Kiambu",
-      "skills": [
+      "Services": [
         "Oil Change",
         "Battery Replacement",
         "General Car Service"
@@ -96,7 +96,7 @@
       "id": 10,
       "name": "Isaack Stuart",
       "area": "Nyeri",
-      "skills": [
+      "Services": [
         "General Service",
         "Brake work",
         "Transmission"
@@ -106,7 +106,7 @@
       "id": 11,
       "name": "Halsey Wayne",
       "area": "Naivasha",
-      "skills": [
+      "Services": [
         "Oil Change",
         "General Car Service",
         "Transmission"
@@ -116,7 +116,7 @@
       "id": 12,
       "name": "Meshack Rhyne",
       "area": "Gilgil",
-      "skills": [
+      "Services": [
         "General Car Service",
         "Battery Replacement",
         "Brake fluids"
@@ -126,7 +126,7 @@
       "id": 13,
       "name": "Henry Nyabuto",
       "area": "Narok",
-      "skills": [
+      "Services": [
         "Oil Change",
         "Battery Replacement",
         "General Car Service"
@@ -136,7 +136,7 @@
       "id": 14,
       "name": "Michael Mulinge",
       "area": "Kitui",
-      "skills": [
+      "Services": [
         "General Car Service",
         "Transmission"
       ]
